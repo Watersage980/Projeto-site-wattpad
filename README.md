@@ -18,6 +18,7 @@ Tarefas a realizar:
 Em progresso:
 
 -Referências: observar diversos sites parecidos com meu objetivos e anotei similaridades, diferenças e a forma como executam seus serviços
+-Concorrentes: observando os concorrentes e determinando pontos positivos e negativos
 
 
 
