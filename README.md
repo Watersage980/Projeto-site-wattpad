@@ -15,3 +15,6 @@ Tarefas a realizar:
 -Testar a viabilidade e organização
 
 
+Definidos:
+
+-Objetivo: Desenvolver um site que permita ao usuário criar suas próprias histórias com a ajuda de diferentes ferramentas, assim como ler as histórias de outros usuários para inspiração e entretenimento
