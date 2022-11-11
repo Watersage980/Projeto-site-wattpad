@@ -23,5 +23,6 @@ Em progresso:
 
 Definidos:
 
--Objetivo: Desenvolver um site que permita ao usuário criar suas próprias histórias com a ajuda de diferentes ferramentas, assim como ler as histórias de outros usuários para inspiração e entretenimento
+-Objetivo: desenvolver um site que permita ao usuário criar suas próprias histórias com a ajuda de diferentes ferramentas, assim como ler as histórias de outros usuários para inspiração e entretenimento
 -Concorrentes: observei cerca de 27 concorrentes, percebi que apenas alguns poucos possuem uma quantidade de usuários significativa, enquanto outros caíram tanto em desuso que suas páginas não funcionam ou o domínio está a venda, ainda assim aqueles que funcionam, com excessão de 3, possui um design pouco intuitivo que dificulta encontrar qualquer coisa.
+-Público-alvo: percebi que o público-alvo de sites como o meu são qualquer pessoa que queira ler ou escrever histórias
