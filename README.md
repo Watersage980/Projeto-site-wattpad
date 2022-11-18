@@ -24,7 +24,7 @@ Definidos:
 
 
 
--Público-alvo: meu público-alvo seriam pessoas de todas as idades que tenham vontade de ler, criar histórias, que estejam procurando uma nova paixão, hobby ou que sóqueiram se distrair no tempo livre.
+-Público-alvo: meu público-alvo seriam pessoas de todas as idades que tenham vontade de ler, criar histórias, que estejam procurando uma nova paixão, hobby ou que só queiram se distrair no tempo livre.
 -Aparência: decidi seguir a ideia as minhas referências de ter um tema claro com cores claras e letras escuras e um tema escuro com cores escuras e letras claras.
 -Referências: observei diversos sites parecidos com o meu e anotei suas similaridades, diferenças e a forma como executam seus serviços.
 -Esboço: criei um esboço da aparência do site, quantas páginas vai ter e como penso as conexões vão ser.
