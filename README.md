@@ -17,7 +17,13 @@ Tarefas a realizar:
 Definidos:
 
 -Objetivo: desenvolver um site que permita ao usuário criar suas próprias histórias com a ajuda de diferentes ferramentas, assim como ler as histórias de outros usuários para inspiração e entretenimento.
--Concorrentes: observei cerca de 27 concorrentes, percebi que apenas alguns poucos possuem uma quantidade de usuários significativa, enquanto outros caíram tanto em desuso que suas páginas não funcionam ou o domínio está a venda, ainda assim aqueles que funcionam, com excessão de 3, possui um design pouco intuitivo que dificulta encontrar qualquer coisa.
+-Concorrentes: observei cerca de 27 concorrentes, percebi que apenas alguns poucos possuem uma quantidade de usuários significativa, enquanto outros caíram tanto em desuso que suas páginas não funcionam ou o domínio está a venda, ainda assim aqueles que funcionam, com excessão de 3, possui um design pouco intuitivo que dificulta encontrar qualquer coisa. 
+-Wattpad: permite a leitura e escrita de histórias criadas pelos usuários, criação de coleções de livros que um usuário recomenda para outros, possui uma biblioteca privada, mostra quanto do livro você já leu para facilitar o retorno, permite receber feedback dos leitores através de comentários, permite seguir seus autores favoritos para receber atualizações, possui proteção de direitos autorais, permite ler sem conta. Desvantagens: dificulta a busca ao permitir apenas busca de autores e "tags" de histórias.
+-Scribd: permite a leitura e envio de histórias criadas pelos usuários; possui ampla biblioteca de livros, audiobooks, magazines, podcasts. partituras, entre outros; criar listas para ler futuramente. Desvantagens: possui uma taxa mensal para leitura com uma segunda taxa para permitir que o usuário envie seus arquivos, só permite o envio de histórias e não a escrita no próprio site, não impede o roubo de histórias por falta de direitos autorais.
+-Spirit fanfics: permite que os usuários publiquem suas histórias de forma rápida e fácil, sem a necessidade de colocar direitos autorias e suas histórias, possui busca por categoria e origem da história, permite postar uma história e continuar ela em outro momento. Desvantagens: só permite o envio de histórias e não a escrita no próprio site, não impede o roubo de histórias por falta de direitos autorais.
+
+
+
 -Público-alvo: meu público-alvo seriam pessoas de todas as idades que tenham vontade de ler, criar histórias, que estejam procurando uma nova paixão, hobby ou que sóqueiram se distrair no tempo livre.
 -Aparência: decidi seguir a ideia as minhas referências de ter um tema claro com cores claras e letras escuras e um tema escuro com cores escuras e letras claras.
 -Referências: observei diversos sites parecidos com o meu e anotei suas similaridades, diferenças e a forma como executam seus serviços.
