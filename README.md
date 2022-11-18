@@ -18,7 +18,7 @@ Definidos:
 
 -Objetivo: desenvolver um site que permita ao usuário criar suas próprias histórias com a ajuda de diferentes ferramentas, assim como ler as histórias de outros usuários para inspiração e entretenimento.
 -Concorrentes: observei cerca de 27 concorrentes, percebi que apenas alguns poucos possuem uma quantidade de usuários significativa, enquanto outros caíram tanto em desuso que suas páginas não funcionam ou o domínio está a venda, ainda assim aqueles que funcionam, com excessão de 3, possui um design pouco intuitivo que dificulta encontrar qualquer coisa.
--Público-alvo: percebi que o público-alvo de sites como o meu são qualquer pessoa que queira ler ou escrever histórias.
+-Público-alvo: meu público-alvo seriam pessoas de todas as idades que tenham vontade de ler, criar histórias, que estejam procurando uma nova paixão, hobby ou que sóqueiram se distrair no tempo livre.
 -Aparência: decidi seguir a ideia as minhas referências de ter um tema claro com cores claras e letras escuras e um tema escuro com cores escuras e letras claras.
 -Referências: observei diversos sites parecidos com o meu e anotei suas similaridades, diferenças e a forma como executam seus serviços.
 -Esboço: criei um esboço da aparência do site, quantas páginas vai ter e como penso as conexões vão ser.
